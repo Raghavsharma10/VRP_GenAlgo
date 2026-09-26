@@ -48,10 +48,6 @@ The best route found, with each vehicle's stops color-coded — saved as `optima
 
 ![Optimal route](assets/optimal_route.png)
 
-*(The plots above are from a sample run for illustration — locations are randomized each run
-unless you fix the seed, and yours will look different. Run the script to regenerate both
-with your own numbers.)*
-
 ## Getting Started
 
 ### Install
